@@ -3,4 +3,7 @@
 <resources>
     <string name="username">用户名</string>
     <string name="password">密码</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="forget_password">Forget password?</string>
+    <string name="login">login</string>
 </resources>

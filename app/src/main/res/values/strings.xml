@@ -2,4 +2,7 @@
     <string name="app_name">zmc_04_layout</string>
     <string name="username">Username</string>
     <string name="password">Password</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="forget_password">Forget password?</string>
+    <string name="login">login</string>
 </resources>
