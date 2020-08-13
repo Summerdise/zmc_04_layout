@@ -65,8 +65,9 @@
             app:layout_constraintTop_toBottomOf="@+id/editText">
 
             <CheckBox
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
+                android:layout_width="15dp"
+                android:layout_height="match_parent"
+                android:button="@drawable/bg_checkbox"
                 android:checked="true"></CheckBox>
 
             <TextView
