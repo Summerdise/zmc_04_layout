@@ -119,7 +119,7 @@
             android:layout_width="135dp"
             android:layout_height="44dp"
             android:layout_marginTop="30dp"
-            android:background="#3B5998"
+            android:background="@drawable/btn_facebook"
             android:drawableTop="@drawable/ic_facebook"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/textView">
@@ -131,7 +131,7 @@
             android:layout_width="135dp"
             android:layout_height="44dp"
             android:layout_marginTop="30dp"
-            android:background="#55ACEE"
+            android:background="@drawable/btn_twitter"
             android:drawableTop="@drawable/ic_twitter"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/textView">
